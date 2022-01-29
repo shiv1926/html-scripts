@@ -1,0 +1,14 @@
+html 5 tags and attributes 
+====
+Empty HTML Elements
+HTML elements with no content are called empty elements. <br> is an empty element without a closing tag (the <br> tag defines a line break). Empty elements can be "closed" in the opening tag like this: <br />, HTML5 does not require empty elements to be closed. But if you want stricter validation, or if you need to make your document readable by XML parsers, you must close all HTML elements properly.
+
+Use Lowercase Tags
+HTML tags are not case sensitive: <P> means the same as <p>. The HTML5 standard does not require lowercase tags, but W3C recommends lowercase in HTML, and demands lowercase for stricter document types like XHTML.
+
+Browsers display <strong> as <b>, and <em> as <i>. However, there is a difference in the meaning of these tags: <b> and <i> defines bold and italic text, but <strong> and <em> means that the text is "important".
+
+html tags are also known as html objects, and object can be categories in low level object and high level objects.
+all the object that define functionality are known as high level objects, like section tag, header, footer, video, audio, article
+
+By default, a block level element's content is 100% of the width of its parent element, and as tall as its content. Inline elements are all tall as their content, and as wide as their content. You can't set width or height on inline elements — they just sit inside the content of block level elements.

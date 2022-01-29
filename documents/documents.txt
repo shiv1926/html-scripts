@@ -1,2 +1,18 @@
 http://www.html-5.com/
 http://www.html-5.com/metatags
+
+
+important list of all meta tags
+https://gist.github.com/kevinSuttle/1997924
+https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md
+https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/css.md
+
+
+async and defer differnce
+http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html
+
+what is html dom
+
+
+picture tag
+pre and code tag
