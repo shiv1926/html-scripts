@@ -1,6 +1,8 @@
 http://www.html-5.com/
 http://www.html-5.com/metatags
 
+html default form validaion is a good topic and learn how to design it.
+https://www.sitepoint.com/html5-form-validation/
 
 important list of all meta tags
 https://gist.github.com/kevinSuttle/1997924
@@ -16,3 +18,6 @@ what is html dom
 
 picture tag
 pre and code tag
+
+
+https://websitesetup.org : very good website , see for web hosting and blogs
